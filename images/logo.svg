@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176.599" height="38" viewBox="0 0 176.599 38">
+    <defs>
+        <linearGradient id="qf0exnt6la" y1=".5" x2="1" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#bf0a00"/>
+            <stop offset="1" stop-color="#69007f"/>
+        </linearGradient>
+        <linearGradient id="qyiqwimfsb" y1=".5" x2="1" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#bf0a00"/>
+            <stop offset=".232" stop-color="#a0062d"/>
+            <stop offset=".454" stop-color="#880350"/>
+            <stop offset=".662" stop-color="#77016a"/>
+            <stop offset=".85" stop-color="#6c0079"/>
+            <stop offset="1" stop-color="#69007f"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 4">
+        <g data-name="Group 3">
+            <path data-name="Path 1" d="M163.013 80.081a12.772 12.772 0 1 0-17.3-18.791c-5.189 4.778-3.931 11.394.847 16.583l.249-.31a14.866 14.866 0 0 1-.573-7.663c1.2-4.9 5.583-7.953 10.455-5.038a6.733 6.733 0 0 1 1.105 10.727l4.635 5.033z" style="fill:url(#qf0exnt6la)" transform="translate(-131.188 -57.425)"/>
+        </g>
+        <path data-name="Path 2" d="M139.319 74.174a6.769 6.769 0 0 0 9.775 9.325 6.9 6.9 0 0 0 1.118-8.575l.25-.231c5.118 4.1 6.053 10.191 1.963 14.28-4.944 4.945-13.153 4.407-17.889-.737a12.66 12.66 0 0 1 .737-17.89z" style="fill:url(#qyiqwimfsb)" transform="translate(-131.188 -57.425)"/>
+        <text data-name="SP Global" transform="translate(47.599 32)" style="fill:#595959;font-size:32px;font-family:Barlow-ExtraLight,Barlow;font-weight:200"><tspan x="0" y="0">SP Global</tspan></text>
+    </g>
+</svg>
